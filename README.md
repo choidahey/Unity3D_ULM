@@ -19,4 +19,4 @@
 ✔️ Library : Photon PUN2 - 2.41, Photon Chat - 2.17, Photon Voice2 - 2.50<br/> 
 
 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity3D-000000?style=flat&logo=Unity&logoColor=white"/>
