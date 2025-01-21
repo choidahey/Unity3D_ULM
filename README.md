@@ -10,7 +10,7 @@
 
 
 # 🔗 URL
-https://youtu.be/7yTo96zf0bs?si=An341pt0vP3qJIPL&t=3
+[![Video Label](http://img.youtube.com/vi/7yTo96zf0bs?si=An341pt0vP3qJIPL&t=3/0.jpg)]
 
 
 # ⚙️ Development Enviroment
