@@ -10,8 +10,7 @@
 
 
 # 🔗 URL
-<iframe width="1236" height="695" src="https://www.youtube.com/embed/7yTo96zf0bs" title="[ ULM ] Unity 3D로 제작한 Metaverse Platform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Video Label](http://img.youtube.com/vi'7yTo96zf0bs&t=3s'/0.jpg)](https://youtu.be/'7yTo96zf0bs&t=3s')
 
 # ⚙️ Development Enviroment
 
